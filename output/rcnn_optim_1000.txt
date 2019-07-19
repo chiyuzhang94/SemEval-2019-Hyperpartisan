@@ -1,0 +1,61 @@
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+lr 0.1
+Training Accuracy of the network on epoch 0: 56 %
+Testing Accuracy of the network on epoch 0: 62 %
+lr 0.01
+Training Accuracy of the network on epoch 0: 55 %
+Testing Accuracy of the network on epoch 0: 56 %
+lr 0.001
+Training Accuracy of the network on epoch 0: 56 %
+Testing Accuracy of the network on epoch 0: 61 %
+lr 0.0001
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+the best %s dimension is %f. Accuracy is %f ('lr', 0.1, 62.0)
+hidden_dim 100
+Training Accuracy of the network on epoch 0: 45 %
+Testing Accuracy of the network on epoch 0: 45 %
+hidden_dim 200
+Training Accuracy of the network on epoch 0: 47 %
+Testing Accuracy of the network on epoch 0: 45 %
+hidden_dim 300
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+hidden_dim 400
+Training Accuracy of the network on epoch 0: 45 %
+Testing Accuracy of the network on epoch 0: 48 %
+hidden_dim 500
+Training Accuracy of the network on epoch 0: 49 %
+Testing Accuracy of the network on epoch 0: 40 %
+hidden_dim 600
+Training Accuracy of the network on epoch 0: 44 %
+Testing Accuracy of the network on epoch 0: 42 %
+the best %s dimension is %f. Accuracy is %f ('hidden_dim', 400, 48.0)
+dropout 0.0
+Training Accuracy of the network on epoch 0: 51 %
+Testing Accuracy of the network on epoch 0: 60 %
+dropout 0.1
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+dropout 0.3
+/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py:38: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.3 and num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+dropout 0.5
+/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py:38: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.5 and num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+Training Accuracy of the network on epoch 0: 43 %
+Testing Accuracy of the network on epoch 0: 39 %
+dropout 0.7
+/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py:38: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.7 and num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+Training Accuracy of the network on epoch 0: 46 %
+Testing Accuracy of the network on epoch 0: 51 %
+dropout 0.9
+/anaconda3/lib/python3.6/site-packages/torch/nn/modules/rnn.py:38: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.9 and num_layers=1
+  "num_layers={}".format(dropout, num_layers))
+Training Accuracy of the network on epoch 0: 48 %
+Testing Accuracy of the network on epoch 0: 42 %
+the best %s dimension is %f. Accuracy is %f ('dropout', 0.0, 60.0)

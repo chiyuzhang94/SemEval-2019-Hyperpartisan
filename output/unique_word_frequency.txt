@@ -1,0 +1,37 @@
+The number of unique words:
+773543
+Descriptive Statistics of Word Freq
+Total：
+313257392
+Summary:
+count    7.735430e+05
+mean     4.049644e+02
+std      7.858073e+03
+min      1.000000e+00
+25%      1.000000e+00
+50%      2.000000e+00
+75%      9.000000e+00
+max      2.327914e+06
+Name: count, dtype: float64
+XLarge:
+         words    count
+0         said  2327914
+1          new  1426834
+2          one  1317884
+3        would  1196543
+4       people  1085344
+5         year  1021596
+6         also   892997
+7        state   807702
+8        trump   772360
+9         like   759203
+10        time   757327
+11         two   734660
+12   president   707404
+13       first   700750
+14          us   668747
+15       years   660072
+16       could   652404
+17        last   630351
+18        even   601224
+19  government   594376
