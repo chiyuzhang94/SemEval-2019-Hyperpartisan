@@ -3,8 +3,7 @@
 
 ## Data
 * Sample data is in [./data/](https://github.com/chiyuzhang94/hyperpartisan/tree/master/data)
-* Data Source: [Google Drive](https://drive.google.com/drive/folders/1cieYcEXC0jueSr9ublwODYe0_wSDmQM3)
-* Code running data set: [Google Drive](https://drive.google.com/open?id=1ui8Ww-q88_N9AHzM6w3HpJAQoQeht-Fv)
+
 
 
 
