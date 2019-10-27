@@ -29,5 +29,5 @@
 * [Attention is All you Need](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)
 * [A Convolutional Attention Model for Text Classification](https://link.springer.com/chapter/10.1007/978-3-319-73618-1_16)
 * [Attention-based LSTM for Aspect-level Sentiment Classification](https://aclweb.org/anthology/D16-1058)
-* 【Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning](http://www.aclweb.org/anthology/S17-2126)
+* [Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning](http://www.aclweb.org/anthology/S17-2126)
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
