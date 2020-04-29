@@ -34,5 +34,11 @@
 
 Citation:
 ```
-Zhang, C., Rajendran, A., & Abdul-Mageed, M. (2019, June). UBC-NLP at SemEval-2019 Task 4: Hyperpartisan News Detection With Attention-Based Bi-LSTMs. In Proceedings of the 13th International Workshop on Semantic Evaluation (pp. 1072-1077).
+@inproceedings{zhang2019ubc,
+  title={UBC-NLP at SemEval-2019 Task 4: Hyperpartisan News Detection With Attention-Based Bi-LSTMs},
+  author={Zhang, Chiyu and Rajendran, Arun and Abdul-Mageed, Muhammad},
+  booktitle={Proceedings of the 13th International Workshop on Semantic Evaluation},
+  pages={1072--1077},
+  year={2019}
+}
 ```
