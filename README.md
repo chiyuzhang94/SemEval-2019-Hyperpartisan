@@ -31,3 +31,8 @@
 * [Attention-based LSTM for Aspect-level Sentiment Classification](https://aclweb.org/anthology/D16-1058)
 * [Predicting Affective Content in Tweets with Deep Attentive RNNs and Transfer Learning](http://www.aclweb.org/anthology/S17-2126)
 * [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
+
+Citation:
+```
+Zhang, C., Rajendran, A., & Abdul-Mageed, M. (2019, June). UBC-NLP at SemEval-2019 Task 4: Hyperpartisan News Detection With Attention-Based Bi-LSTMs. In Proceedings of the 13th International Workshop on Semantic Evaluation (pp. 1072-1077).
+```
